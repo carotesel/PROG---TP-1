@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692210921 source:c:\users\usuario\documents\prog - tp 1\ej5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
